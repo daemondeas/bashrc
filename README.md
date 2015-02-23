@@ -1,2 +1,2 @@
 # bashrc
-fantastic .bashrc file
+This is going to be a fantastic .bashrc file
