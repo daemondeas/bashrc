@@ -1,0 +1,2 @@
+# bashrc
+fantastic .bashrc file
